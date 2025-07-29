@@ -1,7 +1,4 @@
-# rpng.github.io
+# Robot Perception & Navigation Group (RPNG) 
+## Under Construction...
+Please visit our old site: https://sites.udel.edu/robot/
 
-...under construction...
-
-Robot Perception & Navigation Group (RPNG) at University of Delaware (UD):
-
-Research on probabilistic sensing, estimation, localization, mapping, perception, locomotion, and planning for robots and XR
